@@ -1,6 +1,9 @@
-# Neural-Image-Captioning
-Image Caption Generator implemented using Keras with tensorflow backend.
+# Data
 
-The model is currently being trained on the Flickr8k dataset due to the computational limitations.
 
-Note: This repository is a work in progress.
+This folder will contain the following files:-
+
+clean.txt
+encoded_train_imagesh.pkl
+encoded_val_imagesh.pkl
+encoded_test_imagesh.pkl
