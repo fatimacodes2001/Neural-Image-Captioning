@@ -93,3 +93,4 @@ def NIC(embedding_size,vocab_len,max_len):
 if __name__ == "__main__":
     model = NIC(300, 2530,34)
     model = mergeModel(300, 2530,34)
+    #Done
